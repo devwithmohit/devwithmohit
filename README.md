@@ -5,34 +5,6 @@ I'm a full-stack developer, DevOps engineer, and AI enthusiast who thrives at th
 
 ---
 
-### 🔧 Tech Toolbox
-
-#### 💻 Full Stack Development
-- ⚙️ **Backend**: Node.js, Express.js, MongoDB, REST APIs
-- 🎨 **Frontend**: React.js, TailwindCSS, Next.js, Chart.js
-- 📦 **State Management**: Redux, Context API
-- 🔌 **Authentication**: JWT, OAuth2
-
-#### ☁️ Cloud & DevOps
-- 🧪 CI/CD: GitHub Actions, Docker, YAML Pipelines
-- 📦 Containers: Docker, Kubernetes (k8s), Helm
-- ☁️ Cloud Providers: AWS (EC2, S3, Lambda), Firebase, Netlify
-- 🔍 Monitoring & Logs: Prometheus, Grafana, ELK Stack
-
-#### 🤖 AI / Machine Learning
-- 🔢 ML Tools: scikit-learn, pandas, NumPy, Matplotlib, Seaborn
-- 🧠 Deep Learning: TensorFlow, HuggingFace Transformers
-- 📊 Projects: Sentiment Analysis, Image Search, AI SaaS Dashboards
-- 🔍 Data: Web scraping, Exploratory Data Analysis (EDA)
-
-#### 🛠️ Other Tools & Skills
-- 🐧 Linux (WSL & Git Bash), Bash Scripting
-- 📁 Git, GitHub, GitHub Pages
-- 🧠 DSA in Java, Python | OOPs, Recursion, LinkedLists
-- 💻 Ethical Hacking Basics, Cybersecurity Awareness
-
----
-
 ### 🌱 Currently Learning
 - ☁️ Advanced AWS (Serverless + IAM + Cost Optimization)
 - 🧠 Applied Machine Learning with real datasets
@@ -45,15 +17,8 @@ I'm a full-stack developer, DevOps engineer, and AI enthusiast who thrives at th
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohit-singh-rawat-52a7b125b)
 - 📫 Email: msrawat.devops@gmail.com
   
----
-
-### ⚡ Fun Fact
-I treat each project as a mini startup — building fast, learning faster, and iterating with user feedback. 🚀
-
----
 
 _Thanks for stopping by! Feel free to check out my repositories and shoot a ⭐ if you like them!_
-
 
 
 
@@ -69,5 +34,10 @@ _Thanks for stopping by! Feel free to check out my repositories and shoot a ⭐ 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=devwithmohit&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### ⚡ Fun Fact
+I treat each project as a mini startup — building fast, learning faster, and iterating with user feedback. 🚀
+
+---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
