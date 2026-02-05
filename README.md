@@ -16,7 +16,7 @@
 
 ## 🎯 About Me
 
-'I'm a Staff-level engineer focused on AI infrastructure, DevOps automation, and scalable system design. I design and deploy end-to-end solutions—from AI-powered applications to automated deployment pipelines—with a focus on reliability, performance, and operational excellence.
+I'm a Staff-level engineer focused on AI infrastructure, DevOps automation, and scalable system design. I design and deploy end-to-end solutions—from AI-powered applications to automated deployment pipelines—with a focus on reliability, performance, and operational excellence.
 
 My expertise spans **AI/ML engineering**, **cloud infrastructure automation**, and **system design** for high-availability environments. I architect systems that are technically sound, cost-efficient, and built to scale.
 
